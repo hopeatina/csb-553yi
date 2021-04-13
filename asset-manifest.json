@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "https://hopeatina.github.io/csb-553yi/static/css/main.01f8094b.chunk.css",
+    "main.js": "https://hopeatina.github.io/csb-553yi/static/js/main.9b7df694.chunk.js",
+    "main.js.map": "https://hopeatina.github.io/csb-553yi/static/js/main.9b7df694.chunk.js.map",
+    "runtime-main.js": "https://hopeatina.github.io/csb-553yi/static/js/runtime-main.61fcb5ac.js",
+    "runtime-main.js.map": "https://hopeatina.github.io/csb-553yi/static/js/runtime-main.61fcb5ac.js.map",
+    "static/css/2.77cf4ef6.chunk.css": "https://hopeatina.github.io/csb-553yi/static/css/2.77cf4ef6.chunk.css",
+    "static/js/2.dce61806.chunk.js": "https://hopeatina.github.io/csb-553yi/static/js/2.dce61806.chunk.js",
+    "static/js/2.dce61806.chunk.js.map": "https://hopeatina.github.io/csb-553yi/static/js/2.dce61806.chunk.js.map",
+    "index.html": "https://hopeatina.github.io/csb-553yi/index.html",
+    "static/css/2.77cf4ef6.chunk.css.map": "https://hopeatina.github.io/csb-553yi/static/css/2.77cf4ef6.chunk.css.map",
+    "static/css/main.01f8094b.chunk.css.map": "https://hopeatina.github.io/csb-553yi/static/css/main.01f8094b.chunk.css.map",
+    "static/js/2.dce61806.chunk.js.LICENSE.txt": "https://hopeatina.github.io/csb-553yi/static/js/2.dce61806.chunk.js.LICENSE.txt",
+    "static/media/Katara3.e14a9f16.png": "https://hopeatina.github.io/csb-553yi/static/media/Katara3.e14a9f16.png",
+    "static/media/suki.a3ec8a80.png": "https://hopeatina.github.io/csb-553yi/static/media/suki.a3ec8a80.png",
+    "static/media/water.fbacfed1.png": "https://hopeatina.github.io/csb-553yi/static/media/water.fbacfed1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61fcb5ac.js",
+    "static/css/2.77cf4ef6.chunk.css",
+    "static/js/2.dce61806.chunk.js",
+    "static/css/main.01f8094b.chunk.css",
+    "static/js/main.9b7df694.chunk.js"
+  ]
+}
